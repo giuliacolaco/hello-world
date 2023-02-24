@@ -53,3 +53,37 @@ public class PrintArray {
         }
     }
 }
+
+------------------------------------------------------------------------------------------------------------------------------------
+Exercises
+
+1 - Write a Java program that creates an array of integers and initializes it with the values 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10. 
+Then, print the values in reverse order.
+
+2 - Write a Java program that creates an array of doubles and initializes it with the values 1.1, 2.2, 3.3, 4.4, 5.5, 6.6, 7.7, 8.8, 9.9, 
+and 10.10. Then, compute the average of the values and print it.
+
+3 - Write a Java program that creates an array of strings and initializes it with the names of five of your favorite fruits. 
+Then, prompt the user to enter a fruit name and search the array for that fruit. If the fruit is found, print "Found!" Otherwise, print "Not found."
+
+4 - Write a Java program that creates an array of integers and initializes it with random values between 1 and 100. 
+Then, prompt the user to enter a number and search the array for that number. If the number is found, print its index in the array. Otherwise, print "Not found."
+
+5 - Write a Java program that creates an array of integers and initializes it with the values 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10. 
+Then, create a second array of integers with the same length as the first array and copy the values from the first array into the 
+second array in reverse order. Finally, print the values in the second array.
+
+6 - Write a Java program that creates an array of integers and initializes it with random values between 1 and 100. 
+Then, sort the array in ascending order and print the sorted values.
+
+7 - Write a Java program that creates an array of integers and initializes it with random values between 1 and 100. 
+Then, compute the sum of the values and print it.
+
+8 - Write a Java program that creates an array of integers and initializes it with random values between 1 and 100. 
+Then, compute the average of the values and print it.
+
+9 - Write a Java program that creates an array of integers and initializes it with random values between 1 and 100. 
+Then, find the minimum and maximum values in the array and print them.
+
+10 - Write a Java program that creates an array of integers and initializes it with random values between 1 and 100. 
+Then, compute the median of the values and print it.
