@@ -1,11 +1,11 @@
 package net.pleasantonusd.amador;
 
-public class Arrays101 {
+public class ArraysEx1 {
 
 
     public static void main(String[] args) {
-        int[] numbers = {1,2,3,4,5,6,7,8};
-        for (int i = numbers.length -1; i >= 0; i--) {
+        int[] numbers = {2, 4, 6, 8, 10, 12, 14, 16, 18, 20};
+        for (int i = 0; i < numbers.length; i++) {
             System.out.println(numbers[i]);
         }
     }
