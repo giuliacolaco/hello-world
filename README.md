@@ -2,7 +2,7 @@
 A collection of videos and articles related to Computer Science.
 
 ## Table of Contents
-- [Binary Code](#[github]))
+- [Binary Code](https://youtu.be/wgbV6DLVezo)
 
 
 
